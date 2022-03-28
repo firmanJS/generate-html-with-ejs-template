@@ -1,0 +1,24 @@
+{
+  "name": "html-pdf",
+  "version": "1.0.0",
+  "description": "- module using html-pdf[https://www.npmjs.com/package/html-pdf](https://www.npmjs.com/package/html-pdf)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/firmanJS/generate-html-with-ejs-template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/firmanJS/generate-html-with-ejs-template/issues"
+  },
+  "homepage": "https://github.com/firmanJS/generate-html-with-ejs-template#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "html-pdf": "^3.0.1"
+  }
+}
